@@ -3,7 +3,7 @@ This project is a restful service build using spring boot to track rewards for c
 
 Instructions on how to use:
 
-1) Import this project by git clone command into your local machine.
+1) Import this project by downloading the zip file into your local machine and extract it.
 2) Open the project directory that has the pom.xml into a IDE like IntelliJ or Eclipse.
 3) The Spring boot application can be run by running the main java file - RewardsApplication.java
 4) After the spring boot application is running go to a local browser and enter - http://localhost:8080/ to check if it is running as expected.
