@@ -1,0 +1,4 @@
+customer1 John Weasley 9922992299 john.weasley@gmail.com
+customer2 Aby Siena 9922662266 aby.siena@gmail.com
+customer3 Martha Cols 9922772277 martha.cols@gmail.com
+customer4 James Bern 9922882288 james.bern@gmail.com
